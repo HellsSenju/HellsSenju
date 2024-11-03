@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HellsSenju&theme=discord_old_blurple)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HellsSenju&theme=discord_old_blurple)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HellsSenju&theme=discord_old_blurple)
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=HellsSenju)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HellsSenju)](https://git.io/streak-stats)
